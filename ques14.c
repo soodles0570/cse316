@@ -70,7 +70,7 @@ int main()
 	
 	while(flag==1)
 	{
-		   //                                          	printf("%d\t%d\t%d\t%d\n",tar,tt,wt[tar],p[tar]);
+		                                          	
 		
 		
 		rt[tar]=rt[tar]-1;
@@ -94,9 +94,9 @@ int main()
 	          
 	    if(rt[tar]==0)
 		{
-			//g[tar]=wt[tar];
+			
 			turn[tar]=tt-a[tar];
-			g[tar]=turn[tar]-b[tar]; // g is waiting time
+			g[tar]=turn[tar]-b[tar]; 
 			p[tar]=100000;
 			minp=100000;
 			
