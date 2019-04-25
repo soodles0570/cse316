@@ -1,5 +1,5 @@
 #include<stdio.h>
-int main(
+int main()
 {
 	int i=0,k,n=1,c=-2,m,tt=0,at=0,bt=0,mina=1000,minp=100000,tar=0,sumt=0,sumw=0,j,flag=1,flag1=0,flag2=0,flag4=0;
 		
