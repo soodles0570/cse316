@@ -6,7 +6,7 @@ int main()
 	printf("ENTER THE NUMBER OF PROCESSES\n");
 	scanf("%d",&n);
 	
-	int p[n],a[n],b[n],rt[n],turn[n],wt[n],d[n],g[n]
+	int p[n],a[n],b[n],rt[n],turn[n],wt[n],d[n],g[n];
 	
 	for(i=0;i<n;i++)
 	{
